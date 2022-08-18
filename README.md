@@ -15,6 +15,7 @@ The purpose of this analysis was to show the number of retiring employees per ti
 - Unfortuantly none of the eligible mentors are managers.
 - This data also uses the employees current position.
 
+
 ## Summary
 For the 72,458 retiring 25,916 are Senior Engineers, 24,926 are Senior Staff, 9285 are Engineers, 7,636 are Staff, 3,603 are Technique Leaders, 1,090 are Assistant Engineers, and only 2 are Managers.
 I believe with the low amount of mentors and such an incredibly high amount of retirement ready emnployees just numbers wise there will be a struggle to train the next generation. THe data showed mentors are only 2% of the upcoming group of retiring employees. It would be helpful to expande the mentorship range to gather more employees capable of training.
